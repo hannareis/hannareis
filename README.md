@@ -1,6 +1,6 @@
 ### Olá! Eu sou Hanna Reis 👋
 
-- 🔭 Atualmente trabalhando com desenvolvimento mobile
+- 🔭 Atualmente trabalhando com desenvolvimento .mobile.
 - 🌱 Estou aprendendo React native
 - 😄 React, HTML, CSS, javascript, c#, kotlin e dart.
 <div align="center">
