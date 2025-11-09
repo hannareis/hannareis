@@ -46,11 +46,11 @@ Um olhar sobre as tecnologias que impulsionam meu trabalho:
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/HannaNunesReis">
-    <img src="https://github-readme-stats.vercel.app/api?username=HannaNunesReis&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub da Hanna" />
+  <a href="https://github.com/hannareis">
+    <img src="https://github-readme-stats.vercel.app/api?username=hannareis&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub da Hanna" />
   </a>
-  <a href="https://github.com/HannaNunesReis">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HannaNunesReis&theme=radical&hide_border=true" alt="Sequência de Contribuições da Hanna" />
+  <a href="https://github.com/hannareis">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hannareis&theme=radical&hide_border=true" alt="Sequência de Contribuições da Hanna" />
   </a>
 </p>
 
