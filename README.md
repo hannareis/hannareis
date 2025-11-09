@@ -24,13 +24,6 @@ Um olhar sobre as tecnologias que impulsionam meu trabalho:
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-### 🎨 Estilização
-
-<p align="left">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-</p>
-
 ### ⚙️ Ferramentas & Versionamento
 
 <p align="left">
