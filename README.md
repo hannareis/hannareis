@@ -61,13 +61,13 @@ Um olhar sobre as tecnologias que impulsionam meu trabalho:
 Adoraria trocar ideias ou colaborar em algo interessante. Sinta-se à vontade para me contatar:
 
 <p align="center">
-  <a href="COLOQUE O SEU LINKEDIN AQUI" target="_blank">
+  <a href="[COLOQUE O SEU LINKEDIN AQUI](https://www.linkedin.com/in/hanna-reis/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="COLOQUE O SEU PORTFOLIO AQUI" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:seu_email@exemplo.com" target="_blank">
+  <a href="mailto:hreis0459@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
