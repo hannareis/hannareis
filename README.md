@@ -8,8 +8,6 @@ Sou uma Desenvolvedora que une a paixão por experiências de usuário incrívei
 
 Um olhar sobre as tecnologias que impulsionam meu trabalho:
 
-## 🛠️ Minhas Ferramentas e Habilidades Favoritas
-
 ### 🌐 Web & Front-end
 
 <p align="left">
