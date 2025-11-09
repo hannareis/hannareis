@@ -1,16 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzWSnRxzYw3m/giphy.gif" width="100" />
-</p>
+# Olá, mundo! Eu sou a Hanna 👋
 
-# Olá, mundo! Eu sou a Hanna Nunes Reis 👋
-
-### 🚀 Desenvolvedora Front-end (ReactJS) e Mobile Nativo (Kotlin/Java)
-
-Sou uma **Desenvolvedora de Software** com um foco especial em construir experiências de usuário incríveis! Minha paixão reside no universo **Front-end com ReactJS**, onde transformo designs em interfaces interativas e de alta performance. ✨
-
-Além disso, mergulho fundo no desenvolvimento **Mobile Nativo (Android)**, criando aplicações robustas e eficientes usando **Kotlin e Java**. Adoro desafios que me permitam integrar essas duas paixões, buscando sempre a melhor solução para cada projeto.
-
-Estou sempre aprendendo e me aprimorando, buscando código limpo, boas práticas e inovação.
+Sou uma Desenvolvedora que une a paixão por experiências de usuário incríveis com proficiência em ReactJS. Também desenvolvo aplicações Mobile Nativo (Android) usando Kotlin e Java, priorizando performance, código limpo e inovação em todos os projetos.
 
 ---
 
@@ -18,19 +8,38 @@ Estou sempre aprendendo e me aprimorando, buscando código limpo, boas práticas
 
 Um olhar sobre as tecnologias que impulsionam meu trabalho:
 
-| Categoria             | Tecnologias                                                                                                |
-| :-------------------- | :--------------------------------------------------------------------------------------------------------- |
-| **Desenvolvimento Web** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)        |
-|                       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-|                       | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)          |
-|                       | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)             |
-| **Mobile Nativo** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)       |
-|                       | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)             |
-| **Estilização** | ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) |
-|                       | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)             |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                 |
-|                       | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)       |
-|                       | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+## 🛠️ Minhas Ferramentas e Habilidades Favoritas
+
+### 🌐 Web & Front-end
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 📱 Mobile Nativo (Android)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
+
+### 🎨 Estilização
+
+<p align="left">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+</p>
+
+### ⚙️ Ferramentas & Versionamento
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 
 ---
