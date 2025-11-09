@@ -1,44 +1,79 @@
-# Olá! Eu sou a Hanna Nunes Reis 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzWSnRxzYw3m/giphy.gif" width="100" />
+</p>
 
-### 👩‍💻 Desenvolvedora Focada em Experiência do Usuário e Performance
+# Olá, mundo! Eu sou a Hanna Nunes Reis 👋
 
-Eu sou uma **Desenvolvedora ReactJS** que adora construir interfaces web interativas e de alto desempenho. Minha paixão vai além do front-end, pois também possuo uma base sólida no desenvolvimento mobile nativo, utilizando **Kotlin e Java** para criar aplicações robustas para Android.
+### 🚀 Desenvolvedora Front-end (ReactJS) e Mobile Nativo (Kotlin/Java)
 
-Estou sempre em busca de soluções elegantes e otimizadas, e acredito que a combinação de um bom código com um design que prioriza o usuário é a chave para o sucesso de qualquer produto.
+Sou uma **Desenvolvedora de Software** com um foco especial em construir experiências de usuário incríveis! Minha paixão reside no universo **Front-end com ReactJS**, onde transformo designs em interfaces interativas e de alta performance. ✨
 
----
+Além disso, mergulho fundo no desenvolvimento **Mobile Nativo (Android)**, criando aplicações robustas e eficientes usando **Kotlin e Java**. Adoro desafios que me permitam integrar essas duas paixões, buscando sempre a melhor solução para cada projeto.
 
-## 🛠️ Minhas Principais Habilidades
-
-Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Desenvolvimento Web** | `React` · `JavaScript` · `HTML5` · `CSS3` |
-| **Desenvolvimento Mobile** | `Kotlin` (Android) · `Java` (Android) |
-| **Ferramentas** | `Git` · `GitHub` · `NPM` / `Yarn` · `VS Code` |
-| **Estilização** | `Styled Components` · `Sass` · `Tailwind CSS` |
+Estou sempre aprendendo e me aprimorando, buscando código limpo, boas práticas e inovação.
 
 ---
 
-## 💡 O Que Estou Fazendo Agora
+## 🛠️ Minhas Ferramentas e Habilidades Favoritas
 
-- **Aprimorando:** Meu foco atual é aprofundar meus conhecimentos em arquitetura de aplicações **React (Context API / Redux / Zustand)** e testes unitários.
-- **Explorando:** Estou sempre de olho nas novidades de **Jetpack Compose** para modernizar o desenvolvimento Android.
-- **Buscando:** Estou aberta a **colaborações** em projetos open source de ReactJS ou mobile, e adoro trocar experiências sobre boas práticas de código!
+Um olhar sobre as tecnologias que impulsionam meu trabalho:
+
+| Categoria             | Tecnologias                                                                                                |
+| :-------------------- | :--------------------------------------------------------------------------------------------------------- |
+| **Desenvolvimento Web** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)        |
+|                       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+|                       | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)          |
+|                       | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)             |
+| **Mobile Nativo** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)       |
+|                       | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)             |
+| **Estilização** | ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) |
+|                       | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)             |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                 |
+|                       | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)       |
+|                       | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
 
 ---
 
-## 📫 Conecte-se Comigo
+## 🌱 O Que Estou Cultivando Agora
 
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [Seu Perfil do LinkedIn](COLOQUE O SEU LINKEDIN AQUI) |
-| **Portfolio/Site** | [Seu Site Pessoal](COLOQUE O SEU PORTFOLIO AQUI) |
-| **E-mail** | `seu_email@exemplo.com` |
+-   **Atualmente:** Focada em aprofundar meus conhecimentos em padrões de arquitetura para **React (Context API, Redux Toolkit, Zustand)** e otimização de performance.
+-   **Aprendendo:** Explorando **Jetpack Compose** para modernizar o desenvolvimento Android e criar UIs mais declarativas.
+-   **Buscando:** Estou sempre aberta a novas oportunidades de **colaboração** em projetos open source de ReactJS ou mobile, e adoro conectar com outros desenvolvedores para compartilhar conhecimento!
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://github.com/HannaNunesReis">
+    <img src="https://github-readme-stats.vercel.app/api?username=HannaNunesReis&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub da Hanna" />
+  </a>
+  <a href="https://github.com/HannaNunesReis">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HannaNunesReis&theme=radical&hide_border=true" alt="Sequência de Contribuições da Hanna" />
+  </a>
+</p>
+
+---
+
+## 💬 Vamos Conectar!
+
+Adoraria trocar ideias ou colaborar em algo interessante. Sinta-se à vontade para me contatar:
+
+<p align="center">
+  <a href="COLOQUE O SEU LINKEDIN AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="COLOQUE O SEU PORTFOLIO AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:seu_email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <br>
 
 ***
 
-<p align="center">Feito com ☕ e código por Hanna Nunes Reis.</p>
+<p align="center">Feito com ❤️ e café por Hanna Nunes Reis.</p>
