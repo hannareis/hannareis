@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou a Hanna 👋
+
 
 Sou uma Desenvolvedora que une a paixão por experiências de usuário incríveis com proficiência em ReactJS. Também desenvolvo aplicações Mobile Nativo (Android) usando Kotlin e Java, priorizando performance, código limpo e inovação em todos os projetos.
 
@@ -35,45 +35,8 @@ Um olhar sobre as tecnologias que impulsionam meu trabalho:
 
 ---
 
-## 🌱 O Que Estou Cultivando Agora
+
 
 -   **Atualmente:** Focada em aprofundar meus conhecimentos em padrões de arquitetura para **React (Context API, Redux Toolkit, Zustand)** e otimização de performance.
 -   **Aprendendo:** Explorando **Jetpack Compose** para modernizar o desenvolvimento Android e criar UIs mais declarativas.
 -   **Buscando:** Estou sempre aberta a novas oportunidades de **colaboração** em projetos open source de ReactJS ou mobile, e adoro conectar com outros desenvolvedores para compartilhar conhecimento!
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/hannareis">
-    <img src="https://github-readme-stats.vercel.app/api?username=hannareis&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub da Hanna" />
-  </a>
-  <a href="https://github.com/hannareis">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hannareis&theme=radical&hide_border=true" alt="Sequência de Contribuições da Hanna" />
-  </a>
-</p>
-
----
-
-## 💬 Vamos Conectar!
-
-Adoraria trocar ideias ou colaborar em algo interessante. Sinta-se à vontade para me contatar:
-
-<p align="center">
-  <a href="[COLOQUE O SEU LINKEDIN AQUI](https://www.linkedin.com/in/hanna-reis/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="COLOQUE O SEU PORTFOLIO AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:hreis0459@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<br>
-
-***
-
-<p align="center">Feito com ❤️ e café por Hanna Nunes Reis.</p>
