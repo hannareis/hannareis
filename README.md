@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Ol%C3%A1%2C%20eu%20sou%20a%20Hanna-FFCF99?style=for-the-badge&logoColor=333333" alt="Olá, eu sou a Hanna" height="45"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFCF99&height=90&section=header&text=Olá,%20eu%20sou%20a%20Hanna&fontColor=333333&fontSize=32&fontAlignY=55" alt="Olá, eu sou a Hanna" width="100%"/>
 
 ### Desenvolvedora Mobile & Front-end
 
@@ -16,7 +16,7 @@ Também desenvolvo aplicações **Mobile Nativo (Android)** usando **Kotlin** e 
 <a href="https://linkedin.com" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-FFF0E0?style=for-the-badge&logo=linkedin&logoColor=333333" alt="LinkedIn"/>
 </a>
-<a href="https://github.com" target="_blank">
+<a href="https://github.com/hannareis" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-FFF0E0?style=for-the-badge&logo=github&logoColor=333333" alt="GitHub"/>
 </a>
 
@@ -24,7 +24,22 @@ Também desenvolvo aplicações **Mobile Nativo (Android)** usando **Kotlin** e 
 
 <br>
 
-<img src="https://img.shields.io/badge/-🛠️%20Minhas%20Ferramentas%20e%20Habilidades-FFCF99?style=for-the-badge&logoColor=333333" alt="Ferramentas e Habilidades"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFCF99&height=70&section=header&text=📊%20Minha%20Atividade%20no%20GitHub&fontColor=333333&fontSize=22&fontAlignY=55" alt="Minha atividade no GitHub" width="100%"/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hannareis&show_icons=true&theme=transparent&title_color=333333&text_color=333333&icon_color=FFCF99&bg_color=FFF0E0&border_color=FFCF99&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannareis&layout=compact&theme=transparent&title_color=333333&text_color=333333&bg_color=FFF0E0&border_color=FFCF99&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=hannareis&theme=transparent&background=FFF0E0&stroke=FFCF99&ring=FFCF99&fire=FFCF99&currStreakLabel=333333&currStreakNum=333333&sideLabels=333333&sideNums=333333&dates=999999&border=FFCF99&hide_border=false" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFCF99&height=70&section=header&text=🛠️%20Minhas%20Ferramentas%20e%20Habilidades&fontColor=333333&fontSize=22&fontAlignY=55" alt="Ferramentas e Habilidades" width="100%"/>
 
 Um olhar sobre as tecnologias que impulsionam meu trabalho:
 
@@ -62,7 +77,7 @@ Um olhar sobre as tecnologias que impulsionam meu trabalho:
 
 <br>
 
-<img src="https://img.shields.io/badge/-🚀%20Como%20posso%20auxiliar%20você-FFCF99?style=for-the-badge&logoColor=333333" alt="Como posso auxiliar"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFCF99&height=70&section=header&text=🚀%20Como%20posso%20auxiliar%20você&fontColor=333333&fontSize=22&fontAlignY=55" alt="Como posso auxiliar" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -93,14 +108,18 @@ Estou sempre aberta a novas oportunidades de **colaboração** em projetos open 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Vamos%20nos%20conectar%20e%20conversar-FFCF99?style=for-the-badge&logoColor=333333" alt="Vamos nos conectar"/>
+<img src="https://raw.githubusercontent.com/hannareis/hannareis/output/github-contribution-grid-snake.svg" alt="Snake animation das contribuições" width="100%"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFCF99&height=70&section=header&text=Vamos%20nos%20conectar%20e%20conversar&fontColor=333333&fontSize=22&fontAlignY=55" alt="Vamos nos conectar" width="100%"/>
 
 <br><br>
 
 <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFF0E0?style=for-the-badge&logo=instagram&logoColor=333333"/></a>
 <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFF0E0?style=for-the-badge&logo=linkedin&logoColor=333333"/></a>
 <a href="https://facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-FFF0E0?style=for-the-badge&logo=facebook&logoColor=333333"/></a>
-<a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-FFF0E0?style=for-the-badge&logo=github&logoColor=333333"/></a>
+<a href="https://github.com/hannareis" target="_blank"><img src="https://img.shields.io/badge/GitHub-FFF0E0?style=for-the-badge&logo=github&logoColor=333333"/></a>
 
 <br><br>
 
